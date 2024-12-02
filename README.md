@@ -1,7 +1,12 @@
 # Video-Call-and-Chat-Application
 A feature-rich real-time communication platform built using the Django Framework, designed for seamless virtual interactions and collaboration. Features like User Authentication, Room Creation, Live Chat, Video Calling, Screen Sharing, and Dark/Light Mode
+
 # supporter:-
 <a href="https://github.com/code-with-raiden"><img src="https://github.com/code-with-raiden.png?size=96" alt="Raiden" width="96px" height="96px" /></a>
+
+# Partner:-
+<a href="https://github.com/Sandeep-web-art"><img src="https://github.com/Sandeep-web-art.png?size=96" alt="Sandeep" width="96px" height="96px" /></a>
+
 # UI View:-
 
 # Home Page:
